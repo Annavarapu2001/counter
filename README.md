@@ -1,3 +1,6 @@
+A basic React counter App that can do incremet,decrement and reset functions
+this was build using useState hook .
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
